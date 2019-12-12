@@ -26,7 +26,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 - - -
 
-### Level 2: Impress the Boss (Optional Challenge Assignment)
+### Level 2: Impress the Boss 
 
 Why make a static graphic when D3 lets you interact with your data?
 
